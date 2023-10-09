@@ -1,2 +1,1 @@
-# Little-Lemon-backend-capsone
-Little lemon
+Coursera Backend Capstone Project
